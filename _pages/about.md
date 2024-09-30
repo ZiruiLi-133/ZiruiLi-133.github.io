@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: ECE Senior Undergrad at <[a href='https://www.rochester.edu/']>UR</a>
 
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
