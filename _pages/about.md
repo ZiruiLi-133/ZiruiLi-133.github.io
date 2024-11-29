@@ -22,3 +22,5 @@ Welcome! I'm Zirui Li, a senior undergraduate student majoring in Electrical and
 I am passionate about building robotic systems that assist people in daily tasks, particularly focusing on ensuring safety for these robots. My research areas include Machine Learning, Control Theory, and Optimization.  
 
 Last summer, I had the privilege of working with [Somil Bansal](https://smlbansal.github.io/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on using language prompts to enforce safety constraints for robots. Previously, I collaborated with [Tony Geng](https://www.tonytgeng.com/) to develop a unified perception system for autonomous driving.
+
+During my free time, I enjoy photography 📸. You can see some of my work [here](https://pixabay.com/users/ambitiousbanana-12117970/) on Pixabay.
