@@ -17,12 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an senior undergraduate student majoring in Electrical and Computer Engineering at [University of Rochester](https://www.rochester.edu/)
+Welcome! I'm Zirui Li, a senior undergraduate student majoring in Electrical and Computer Engineering at the [University of Rochester](https://www.rochester.edu/).  
 
-This page is still under construction 🚧
+I am passionate about building robotic systems that assist people in daily tasks, particularly focusing on ensuring safety for these robots. My research areas include Machine Learning, Control Theory, and Optimization.  
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Last summer, I had the privilege of working with [Somil Bansal](https://smlbansal.github.io/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on using language prompts to enforce safety constraints for robots. Previously, I collaborated with [Tony Geng](https://www.tonytgeng.com/) to develop a unified perception system for autonomous driving.
