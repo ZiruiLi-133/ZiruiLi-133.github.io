@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Our paper [updating safety via language](https://cmu-intentlab.github.io/language-informed-safe-navigation/) is accepted to ICRA 2025!**
+**Our paper [updating safety via language](https://cmu-intentlab.github.io/language-informed-safe-navigation/) has been accepted to ICRA 2025!**
