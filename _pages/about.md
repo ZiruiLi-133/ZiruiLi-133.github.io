@@ -8,7 +8,7 @@ subtitle: ECE Senior Undergrad at <a href='https://www.rochester.edu/'>UR</a>
 
 profile:
   align: right
-  image: me.jpg
+  image: me_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: ""
 
