@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I'm Zirui Li, a senior undergraduate student majoring in Electrical and Computer Engineering at the [University of Rochester](https://www.rochester.edu/).  
 
-I am passionate about building robotic systems that assist people in daily tasks, particularly focusing on ensuring safety for these robots. My research areas include Machine Learning, Control Theory, and Optimization.  
+I am passionate about building robotic systems that assist people in daily tasks, particularly focusing on ensuring safety for these robots. I’ve also developed a strong interest in Power Electronics and Power Systems, focusing on how power electronics and intelligent control can contribute to building a sustainable power network for the future.
 
 Last summer, I had the privilege of working with [Somil Bansal](https://smlbansal.github.io/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on using language prompts to enforce safety constraints for robots. Previously, I collaborated with [Tony Geng](https://www.tonytgeng.com/) to develop a unified perception system for autonomous driving.
 
