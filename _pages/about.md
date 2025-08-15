@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I'm Zirui Li, an **M.S. student in Electrical and Computer Engineering** at the **Georgia Institute of Technology**
 
-My current focus is **Power Electronics** and **Power Systems**, especially on how power electronics and intelligent control can contribute to building a **sustainable power network** for the future.
+My current focus is **Power Electronics** and **Power Systems**, especially how power electronics and intelligent control can help to building a **sustainable, resilient power grid**.
 
 Before pivoting to power electronics, I worked extensively in robotics. Previously, I had the privilege of working with [Somil Bansal](https://smlbansal.github.io/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on using language prompts to enforce safety constraints for robots. Earlier, I collaborated with [Tony Geng](https://www.tonytgeng.com/) to develop a unified perception system for autonomous driving.
 
