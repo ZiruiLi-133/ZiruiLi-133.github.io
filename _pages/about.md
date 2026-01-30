@@ -8,7 +8,7 @@ subtitle: M.S. ECE at <a href='https://www.ece.gatech.edu/'>Georgia Tech</a>
 
 profile:
   align: right
-  image: me_3.jpg
+  image: selfie_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: ""
 
@@ -17,10 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm Zirui Li, an **M.S. student in Electrical and Computer Engineering** at the **Georgia Institute of Technology**
+Welcome! I'm Zirui Li, an M.S. student in Electrical and Computer Engineering at the Georgia Institute of Technology.
 
-My current focus is **Power Electronics** and **Power Systems**, especially how power electronics and intelligent control can help to building a **sustainable, resilient power grid**.
+My focus is **Power Electronics** and **Power Systems**, especially how power electronics and intelligent control can help to building a **sustainable, resilient power grid**. Currently, I am part of [ACES Lab](https://aces.ece.gatech.edu/) supervised by [Prof. Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva). where I work on **grid–converter interactions** and **data-center power infrastructure**.
 
-Before pivoting to power electronics, I worked extensively in robotics. Previously, I had the privilege of working with [Somil Bansal](https://smlbansal.github.io/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on using language prompts to enforce safety constraints for robots. Earlier, I collaborated with [Tony Geng](https://www.tonytgeng.com/) to develop a unified perception system for autonomous driving.
+Before pivoting to power electronics, I worked extensively in robotics. Previously, I had the privilege of working with [Prof. Bansal](https://smlbansal.github.io/) and [Prof. Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on using language prompts to enforce safety constraints for robots.
 
 During my free time, I enjoy **photography** 📸. You can see some of my work [here](https://pixabay.com/users/ambitiousbanana-12117970/) on Pixabay.
