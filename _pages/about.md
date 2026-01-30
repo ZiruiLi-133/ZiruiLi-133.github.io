@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I'm Zirui Li, an M.S. student in Electrical and Computer Engineering at the Georgia Institute of Technology.
 
-My focus is **Power Electronics** and **Power Systems**, especially how power electronics and intelligent control can help to building a **sustainable, resilient power grid**. Currently, I am part of [ACES Lab](https://aces.ece.gatech.edu/) supervised by [Prof. Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva). where I work on **grid–converter interactions** and **data-center power infrastructure**.
+My focus is **Power Electronics** and **Power Systems**, especially how power electronics and intelligent control can help to building a **sustainable, resilient power grid**. I’m currently a member of the [ACES Lab](https://aces.ece.gatech.edu/) advised by [Prof. Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva), where I work on **grid–converter interactions** and **data-center power infrastructure**.
 
 Before pivoting to power electronics, I worked extensively in robotics. Previously, I had the privilege of working with [Prof. Bansal](https://smlbansal.github.io/) and [Prof. Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on using language prompts to enforce safety constraints for robots.
 
